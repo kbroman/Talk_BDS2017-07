@@ -49,7 +49,7 @@ load("~/Projects/Payseur_Gough/DerivedData/goughF2_simple_v4.RData")
 
 \vspace{-40pt}
 
-\centerline{\href{http://bit.ly/APStats2017}{\tt \scriptsize bit.ly/APStats2017}}
+\centerline{\href{http://bit.ly/BDS2017-07}{\tt \scriptsize bit.ly/BDS2017-07}}
 
 \note{
   This is a collaboration with Bret Payseur (Genetics, UW-Madison).
@@ -318,7 +318,7 @@ load("~/Projects/Payseur_Gough/DerivedData/goughF2_simple_v4.RData")
 
 
 
-\begin{frame}[c]{\href{https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/lod_and_effect}{\color{title} Genome scan}}
+\begin{frame}[c]{\href{https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/lod_and_effect}{\color{title} Genome scan}}
 
 \figh{Figs/lod_and_effect.png}{0.85}
 
@@ -362,7 +362,7 @@ load("~/Projects/Payseur_Gough/DerivedData/goughF2_simple_v4.RData")
 
 
 
-\begin{frame}[c]{\href{https://www.biostat.wisc.edu/~kbroman/presentations/APStats2017/perm_test}{\color{title} Permutation test}}
+\begin{frame}[c]{\href{https://www.biostat.wisc.edu/~kbroman/presentations/BDS2017-07/perm_test}{\color{title} Permutation test}}
 
 \figw{Figs/perm_test.png}{0.9}
 
