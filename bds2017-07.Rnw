@@ -478,4 +478,68 @@ NIGMS/NIH
 \end{frame}
 
 
+\begin{frame}[c]{Life of a data science prof}
+
+  \begin{itemize}
+    \item Collaborative data analysis
+      \begin{itemize}
+      \item Gough island mice
+      \item Obesity/diabetes in mice
+      \item Flu infection in mice
+      \item Meiotic recombination in mice and humans
+      \item Other projects in maize, rice, deer mice, ...
+      \end{itemize}
+    \item Methods and software development
+      \begin{itemize}
+      \item QTL mapping in multi-parent populations
+      \item Interactive graphics for statistical genomics
+      \item R/qtl2, R/qtlcharts, GeneNetwork
+      \end{itemize}
+    \item Teaching
+      \begin{itemize}
+        \item Tools for Reproducible Research
+        \item Statistical Genomics
+        \item Data Analysis and Visualization
+        \item Software and Data Carpentry workshops
+      \end{itemize}
+    \item Mentoring
+      \begin{itemize}
+        \item One grad student + 2 summer students
+      \end{itemize}
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}[c]{Life of a data science prof (2)}
+
+  \begin{itemize}
+    \item Program administration
+      \begin{itemize}
+        \item Director of new PhD program in Biomedical Data Science
+      \end{itemize}
+    \item Journal editing/reviewing
+      \begin{itemize}
+        \item Senior editor for \emph{Genetics}
+        \item Editorial boards at \emph{PeerJ\/} and \emph{BMC Biology}
+        \item Frequent reviewer for other journals + book publishers
+      \end{itemize}
+    \item Committees
+      \begin{itemize}
+        \item Faculty Senate
+        \item Steering committee, MD/PhD program
+        \item Genomics Advisory Committee, SMPH
+        \item Departmental committees
+      \end{itemize}
+    \item Travels
+      \begin{itemize}
+      \item Scientific meetings
+      \item Departmental seminars
+      \item Various workshops
+      \end{itemize}
+  \end{itemize}
+
+\end{frame}
+
+
 \end{document}
