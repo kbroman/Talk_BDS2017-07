@@ -483,7 +483,7 @@ NIGMS/NIH
   \begin{itemize}
     \item Collaborative data analysis
       \begin{itemize}
-      \item Gough island mice
+      \item Gough Island mice
       \item Obesity/diabetes in mice
       \item Flu infection in mice
       \item Meiotic recombination in mice and humans
@@ -530,6 +530,7 @@ NIGMS/NIH
         \item Steering committee, MD/PhD program
         \item Genomics Advisory Committee, SMPH
         \item Departmental committees
+        \item PhD thesis committees
       \end{itemize}
     \item Travels
       \begin{itemize}
